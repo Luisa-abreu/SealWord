@@ -35,7 +35,7 @@ Este projeto utiliza uma **variação do padrão BEM (Block-Element-Modifier)** 
 - Escalabilidade: ideal para projetos maiores;
 - Manutenção facilitada: menor risco de colisões de estilo.
 
-  ##Aprendizados
+## Aprendizados
 - Durante o desenvolvimento, foram praticados conceitos como:
 - Utilização de variáveis CSS com :root;
 - Layout com float e position;
@@ -62,17 +62,3 @@ Este projeto utiliza uma **variação do padrão BEM (Block-Element-Modifier)** 
 │   ├── leopard_seal.jpg
 │   └── pexels-daniel-lee-3187036.jpg
 
-##Aprendizados
-Durante o desenvolvimento, foram praticados conceitos como:
-
-Utilização de variáveis CSS com :root;
-
-Layout com float e position;
-
-Uso de sombras, bordas arredondadas e responsividade;
-
-Implementação de vídeo de fundo com sobreposição de conteúdo;
-
-Organização de código com padrão BEM;
-
-Boas práticas de estruturação HTML semântica.
